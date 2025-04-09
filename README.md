@@ -20,6 +20,3 @@ Este projeto foi desenvolvido como parte da disciplina **Padrões Web** no curso
 - Criar uma experiência simples, direta e acessível para os usuários.
 
 ---
-
-## 📁 Estrutura do Projeto
-
